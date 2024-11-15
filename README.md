@@ -21,6 +21,10 @@ Born in Taranto, Italy, on 24/01/1995. Graduated in computer engineering. Passio
 |Unity Engine |Adaptability |
 |C++ |Problem Solving|
 |C# |Creativity|
+|Python |Leadership|
+|SQL|Funny**|
+
+**My differ from person to person irony.
 
 ## Formation
 
