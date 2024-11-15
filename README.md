@@ -6,7 +6,7 @@ Born in Taranto, Italy, on 24/01/1995. Graduated in computer engineering. Passio
 
 ## Informations
 - **Real Name**: Maurizio Fischetti
-- **Job**: Programmer / GameDev
+- **Jobs**: Project Manager, GameDev, Programmer, Designer.
 
 ## Contacts
 - **[LinkedIn](https://www.linkedin.com/in/maurizio-fischetti-b40a45245/)**
