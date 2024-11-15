@@ -10,8 +10,8 @@ Born in Taranto, Italy, on 24/01/1995. Graduated in computer engineering. Passio
 
 ## Contacts
 - **[LinkedIn](https://www.linkedin.com/in/maurizio-fischetti-b40a45245/)**
-- **[WebSite](https://sites.google.com/view/mauriziofischetti/about-me)**
-- **[Ich.io](https://maurix-phoenix.itch.io/)**
+- **[WebSite](https://maurix-phoenix.github.io/)**
+- **[Ich.io](https://maurix-phoenix.itch.io/)** (not updated)
 
 ## Skills
 
