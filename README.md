@@ -1,6 +1,6 @@
 # Maurix Phoenix - GitHub
 
-This is my Git Page for a full portfolio Go to: **[my WebSite]([https://sites.google.com/view/mauriziofischetti/about-me](https://maurix-phoenix.github.io/))**
+This is my Git Page for a full portfolio Go to: **[my WebSite]([https://sites.google.com/view/mauriziofischetti/about-me](https://maurix-phoenix.github.io/)**
 
 Born in Taranto, Italy, on 24/01/1995. Graduated in computer engineering. Passionate about software development and hardware components since childhood. I enjoy creating software for personal use and programming video games in my free time. I would like to pursue paths that allow me to grow and specialize in the field of Game Development. I want to work on ambitious, innovative, and above all, fun projects! I am a very curious person and I am attracted to things that stimulate my imagination and logic.
 
